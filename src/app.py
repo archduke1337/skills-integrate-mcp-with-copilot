@@ -37,6 +37,12 @@ activities_data: Dict[str, Dict] = {
         "schedule": "Thursdays, 3:30-5:00 PM",
         "max_participants": 12,
         "participants": ["jack.scientist@mergington.edu"]
+    },
+    "GitHub Skills": {
+        "description": "Learn practical coding and collaboration skills through GitHub's interactive learning platform. First part of the GitHub Certifications program to help with college applications.",
+        "schedule": "Fridays, 3:30-5:00 PM",
+        "max_participants": 20,
+        "participants": []
     }
 }
 
